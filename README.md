@@ -15,7 +15,7 @@ Obviously, even better if the dataset already comes with different sets of data 
 - [**Home automation corpora**](https://github.com/xliuhw/NLU-Evaluation-Data). Natural language data for human-robot interaction in home domain. 25K entries. The [Slurp](https://github.com/pswietojanski/slurp) dataset adds to this textual data the corresponding acoustic data to test voice bots.
 - [**Massive**](https://github.com/alexa/massive). A parallel dataset of > 1M utterances across 52 languages. Utterances span 60 intents and include 55 slot types. MASSIVE was created by localizing the SLURP dataset mentioned above. 
 - [**Clinc**](https://github.com/clinc/oos-eval). An Evaluation Dataset for Intent Classification with a focus on testing the capabilities for Out-of-Scope predictions.
-- [**Kaggle dataset**] for intent classification and NER. There are 7 intents. Data is in JSON format where each entity is also tagged.
+- [**Kaggle dataset**](https://www.kaggle.com/datasets/joydeb28/nlp-benchmarking-data-for-intent-and-entity) for intent classification and NER. There are 7 intents. Data is in JSON format where each entity is also tagged.
 - [**HINT3**](https://github.com/hellohaptik/HINT3). Three new datasets created from live chatbots in diverse domains. Only intent matching data.
 - [**Banking77**](https://huggingface.co/datasets/banking77). A fine-grained set of intents in a banking domain. It comprises 13,083 customer service queries labeled with 77 intents.
 
