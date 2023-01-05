@@ -18,6 +18,8 @@ Obviously, even better if the dataset already comes with different sets of data 
 - [**Kaggle dataset**](https://www.kaggle.com/datasets/joydeb28/nlp-benchmarking-data-for-intent-and-entity) for intent classification and NER. There are 7 intents. Data is in JSON format where each entity is also tagged.
 - [**HINT3**](https://github.com/hellohaptik/HINT3). Three new datasets created from live chatbots in diverse domains. Only intent matching data.
 - [**Banking77**](https://huggingface.co/datasets/banking77). A fine-grained set of intents in a banking domain. It comprises 13,083 customer service queries labeled with 77 intents.
+- [**XitXat**](https://zenodo.org/record/7276036#.Y7bk1OzMJba). XitXat is a (Catalan) conversational dataset made of 950 chatbot conversations in 10 different domains.
+
 
 
 ## Papers
