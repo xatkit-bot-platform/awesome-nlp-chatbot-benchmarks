@@ -20,7 +20,9 @@ Obviously, even better if the dataset already comes with different sets of data 
 - [**Banking77**](https://huggingface.co/datasets/banking77). A fine-grained set of intents in a banking domain. It comprises 13,083 customer service queries labeled with 77 intents.
 - [**XitXat**](https://zenodo.org/record/7276036#.Y7bk1OzMJba). XitXat is a (Catalan) conversational dataset made of 950 chatbot conversations in 10 different domains.
 
+## Non-intent-based datasets
 
+- [**OpenAssistant Conversations Dataset (OASST1)**](https://huggingface.co/datasets/OpenAssistant/oasst1). A human-generated, human-annotated assistant-style conversation corpus consisting of 161,443 messages in 35 different languages, annotated with 461,292 quality ratings, resulting in over 10,000 fully annotated conversation trees.
 
 ## Papers
 
