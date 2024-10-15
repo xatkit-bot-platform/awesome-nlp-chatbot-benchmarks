@@ -1,6 +1,6 @@
 # Awesome NLP benchmarks for intent-based chatbots
 
-List of benchmarks to evaluate the quality of your intent matching and entity recognition chatbot components. Given the myriad of NLP/NLP libraries to build your own chatbot ([DialogFlow](https://cloud.google.com/dialogflow), [Amazon Lex](https://aws.amazon.com/lex/), [Rasa](https://github.com/RasaHQ/), [NLP.js](https://github.com/axa-group/nlp.js/), [Xatkit](https://github.com/xatkit-bot-platform), ...), it's important to be able to have some datasets we could use to benchmark them. 
+List of benchmarks to evaluate the quality of your intent matching and entity recognition chatbot components. Given the myriad of NLP/NLP libraries to build your own chatbot ([DialogFlow](https://cloud.google.com/dialogflow), [Amazon Lex](https://aws.amazon.com/lex/), [Rasa](https://github.com/RasaHQ/), [NLP.js](https://github.com/axa-group/nlp.js/), [Xatkit](https://github.com/xatkit-bot-platform), [BESSER Bot Framework](https://github.com/BESSER-PEARL/BESSER-Bot-Framework)...), it's important to be able to have some datasets we could use to benchmark them. 
 
 To evaluate the quality of intent-matching and entity recognition components, we cannot just use raw NLP datasets. We need datasets that include:
 - The user utterance
